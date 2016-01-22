@@ -2,7 +2,7 @@
 <widget id="solsort.apps.apps" version="0.0.1" 
   xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>4d juliabrot fractal</name>
-    <date>20??-00</date>
+    <date>2011-03</date>
     <shortdescription>Old code: 4d fractal</shortdescription>
     <description>
       This is a visualisation of a 4d fractal rendered manually to 2d canvas.
